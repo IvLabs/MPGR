@@ -30,7 +30,7 @@ To run A* search on a given map:
 
 ![A_Implementation](https://user-images.githubusercontent.com/83055325/160805615-a1b44fbf-f9b4-468e-9c4d-5b85fbababde.png) ![Astar](https://user-images.githubusercontent.com/83055325/160805640-bc946511-0748-44d0-88cb-9accef683e88.png)
 
-<img src = "https://user-images.githubusercontent.com/83055325/160805615-a1b44fbf-f9b4-468e-9c4d-5b85fbababde.png" height = 50%>
+<img src = "https://user-images.githubusercontent.com/83055325/160805615-a1b44fbf-f9b4-468e-9c4d-5b85fbababde.png" height = "50">
 
 ### State Estimation using EKF
 
