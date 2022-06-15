@@ -22,6 +22,7 @@ roslaunch sahayak_control teleop.launch
 <p align="center">
   <img src= "![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/83055325/160807783-ba8521bf-5bdc-4819-b19d-33134c7983d4.gif)">
 </p>
+
 ### A* Search
 To run A* search on a given map:
 
