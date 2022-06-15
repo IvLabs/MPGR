@@ -29,8 +29,9 @@ roslaunch sahayak_control teleop.launch
 To run A* search on a given map:
 
 <img src = "https://user-images.githubusercontent.com/83055325/160805615-a1b44fbf-f9b4-468e-9c4d-5b85fbababde.png" height = "500">
-<!-- ![A_Implementation](https://user-images.githubusercontent.com/83055325/160805615-a1b44fbf-f9b4-468e-9c4d-5b85fbababde.png) -->
-![Astar](https://user-images.githubusercontent.com/83055325/160805640-bc946511-0748-44d0-88cb-9accef683e88.png)
+<!-- ![A_Implementation](https://user-images.githubusercontent.com/83055325/160805615-a1b44fbf-f9b4-468e-9c4d-5b85fbababde.png) 
+![Astar](https://user-images.githubusercontent.com/83055325/160805640-bc946511-0748-44d0-88cb-9accef683e88.png) -->
+<img src = "https://user-images.githubusercontent.com/83055325/160805640-bc946511-0748-44d0-88cb-9accef683e88.png" height = "500">
 
 
 ### State Estimation using EKF
