@@ -1,5 +1,7 @@
 # MPGR
 
+This repository gives an insight into the basics of Motion Planning using ROS. This project is performed using [Sahayak](https://github.com/IvLabs/Sahayak-v3).
+
 ## Python Requirements
 ``` shell
 pip install -r requirement.txt
@@ -20,7 +22,7 @@ roslaunch sahayak_control teleop.launch
 ```
 
 <p align="center">
-  <img src= "![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/83055325/160807783-ba8521bf-5bdc-4819-b19d-33134c7983d4.gif)">
+  <img src= "https://user-images.githubusercontent.com/83055325/160807783-ba8521bf-5bdc-4819-b19d-33134c7983d4.gif">
 </p>
 
 ### A* Search
