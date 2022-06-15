@@ -13,9 +13,17 @@ xargs sudo apt install < ros_requirements.txt
 ## Results
 
 ### Sahayak Teleoperation
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/83055325/160807783-ba8521bf-5bdc-4819-b19d-33134c7983d4.gif)
+For teleoperation of Sahayak run the below command in terminal:
 
+```shell
+roslaunch sahayak_control teleop.launch
+```
+
+<p align="center">
+  <img src= "![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/83055325/160807783-ba8521bf-5bdc-4819-b19d-33134c7983d4.gif)">
+</p>
 ### A* Search
+To run A* search on a given map:
 
 ![A_Implementation](https://user-images.githubusercontent.com/83055325/160805615-a1b44fbf-f9b4-468e-9c4d-5b85fbababde.png) ![Astar](https://user-images.githubusercontent.com/83055325/160805640-bc946511-0748-44d0-88cb-9accef683e88.png)
 
@@ -26,4 +34,4 @@ xargs sudo apt install < ros_requirements.txt
 
 ### Sahayak Control
 
-Moving the bot on the path planned by global planner
+To move the bot on the path planned by global planner, run the following:
