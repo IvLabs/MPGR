@@ -66,7 +66,7 @@ To run A* search on a given map:
 </p> -->
 
 
-### Sahayak Control.
+### Sahayak Control
 
 To move the bot on the path planned by global planner, run the following:
 ```
