@@ -1,0 +1,11 @@
+<launch>
+    <arg name="map_file" default="$(find Motion-planning)/my_world_map.yaml"/>       <!-- path of map file -->
+    <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" respawn="true" />
+    
+
+    <node
+    name="rviz"
+    pkg="rviz"
+    type="rviz"
+    args="-d $(find sahayak)/urdf.rviz" />
+</launch>
