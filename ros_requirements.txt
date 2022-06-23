@@ -1,14 +1,14 @@
-ros-melodic-rtabmap-ros
-ros-melodic-navigation
-ros-melodic-tf
-ros-melodic-hector-slam
-ros-melodic-gmapping
-ros-melodic-ros-control
-ros-melodic-joint-state-publisher
-ros-melodic-robot-state-publisher
-ros-melodic-cv-bridge
-ros-melodic-laser-scan-matcher
-ros-melodic-effort-controllers
-ros-melodic-velocity-controllers
-ros-melodic-controller-manager
+ros-noetic-rtabmap-ros
+ros-noetic-navigation
+ros-noetic-tf
+ros-noetic-hector-slam
+ros-noetic-gmapping
+ros-noetic-ros-control
+ros-noetic-joint-state-publisher
+ros-noetic-robot-state-publisher
+ros-noetic-cv-bridge
+ros-noetic-laser-scan-matcher
+ros-noetic-effort-controllers
+ros-noetic-velocity-controllers
+ros-noetic-controller-manager
 
